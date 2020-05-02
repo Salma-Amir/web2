@@ -1,0 +1,125 @@
+ليه ممكن اعمل pug bounty program ؟
+
+• ممكن يحصل للشركات hacking وده بيخسرهم كتير زي ضعف الثقه فيهم وبيانات العملا الي ممكن تتسرب وقله المصداقية ده غير الخسارة الماديه
+
+• ممكن يكون التيم عدده مش كبير فمش بيقدر يغطي كل ال servers والمواقع فبيالجوا لل researchers عشان يكتشفوا الثغرات الي عندهم ويبلغوهم بيها 
+
+Pug bounty platforms,,
+
+Ex: hackerone & bugcrowd & synack & vulbox & zerocopter 
+
+Hackerone: 
+
+directory\ هو الي بيكون في كل المواقع الي بتسمحلك تكتشف فيها ثغرات وتديلك مكافاه عليها
+
+hacktivity\ هي الثغرات الي تم نشرها
+
+** في بعض الثغرات في بعض المواقع بتبقي out of scope يعني مش بتاخد عليها مكافاه ماديه **
+
+private programs\ لما بتكتشف ثغرات كتير وتبلغ عنها بيكون ليك reputation علي شكل points دا معناه انك researcher ليه ثقه 
+
+• ازاي اكتب report ؟
+
+1- description ايه الي انت لقيتوا بالظبط 
+2- steps to reproduce ايه الخطوات الي هتبعها عشان انفذ الثغرة
+3- impact ايه الي ممكن ال attacker يوصله
+
+Cvss بتعمل standard للناس عشان تعرف مدي خطوره اي ثغره
+
+
+Backup files: بتحمل نسخه من قاعده بيانات الموقع
+
+Hidden files: اي ملف بيبدا ب (.) بيكون مخفي
+
+Repositories: لو عندك app شغال عليه اكتر من شخص في اكتر من حد ممكن يعدل علي نفس ال  file دا بيخليهم كلهم يندمجوا
+
+Java script files: جواها ملفات للادمن او passwords او secret key 
+
+
+
+Writeups,,
+
+ 
+https://hackerone.com/reports/704266
+
+https://hackerone.com/reports/733248
+
+https://hackerone.com/reports/485748
+
+https://hackerone.com/reports/438240
+
+https://hackerone.com/reports/484434
+
+https://hackerone.com/reports/449351
+
+https://hackerone.com/reports/526325
+
+https://hackerone.com/reports/484434
+
+https://hackerone.com/reports/341908
+
+https://hackerone.com/reports/474656
+
+https://hackerone.com/reports/398054
+
+https://hackerone.com/reports/422043
+
+https://hackerone.com/reports/323005
+
+https://hackerone.com/reports/477771
+
+https://hackerone.com/reports/770349
+
+https://hackerone.com/reports/681617
+
+https://hackerone.com/reports/729424
+
+https://hackerone.com/reports/756729
+
+https://hackerone.com/reports/499030
+
+https://hackerone.com/reports/461272
+
+https://hackerone.com/reports/481360
+
+https://hackerone.com/reports/496405
+
+https://hackerone.com/reports/425200
+
+https://hackerone.com/reports/297968
+
+https://hackerone.com/reports/361287
+
+https://hackerone.com/reports/751870
+
+https://hackerone.com/reports/704266
+
+https://hackerone.com/reports/509930
+
+https://hackerone.com/reports/303730
+
+https://hackerone.com/reports/429679
+           
+https://hackerone.com/reports/419891
+
+https://hackerone.com/reports/339352
+
+https://hackerone.com/reports/513137
+
+https://hackerone.com/reports/152569
+
+https://hackerone.com/reports/398316
+
+https://hackerone.com/reports/629892
+
+https://hackerone.com/reports/504514
+
+https://hackerone.com/reports/334139
+
+https://hackerone.com/reports/593893
+
+https://hackerone.com/reports/301862
+
+https://hackerone.com/reports/260697
+
+
